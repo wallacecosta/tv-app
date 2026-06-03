@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Corpo branco da TV -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31,26 L77,26 Q82,26 82,31 L82,61 Q82,66 77,66 L31,66 Q26,66 26,61 L26,31 Q26,26 31,26 Z" />
+
+    <!-- Tela interna escura (efeito de bisel) -->
+    <path
+        android:fillColor="#16213e"
+        android:pathData="M33,30 L75,30 Q78,30 78,33 L78,59 Q78,62 75,62 L33,62 Q30,62 30,59 L30,33 Q30,30 33,30 Z" />
+
+    <!-- Perna esquerda -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,66 L44,66 L44,76 L38,76 Z" />
+
+    <!-- Perna direita -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,66 L70,66 L70,76 L64,76 Z" />
+
+    <!-- Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,76 L73,76 L73,82 L35,82 Z" />
+
+    <!-- Botão play (triângulo vermelho) -->
+    <path
+        android:fillColor="#e94560"
+        android:pathData="M43,36 L43,58 L69,47 Z" />
+
+</vector>

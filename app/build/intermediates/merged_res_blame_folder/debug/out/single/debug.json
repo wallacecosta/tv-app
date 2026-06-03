@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-merged_res-25:/layout_activity_tv_main.xml.flat",
+        "source": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-main-27:/layout/activity_tv_main.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-merged_res-25:/layout_activity_player.xml.flat",
+        "source": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-main-27:/layout/activity_player.xml"
+    },
+    {
+        "merged": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-merged_res-25:/layout_item_channel.xml.flat",
+        "source": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-main-27:/layout/item_channel.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/drawable-xhdpi_tv_banner.png.flat",
+        "source": "com.example.clockapp-main-27:/drawable-xhdpi/tv_banner.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-merged_res-25:/layout_item_channel_tv.xml.flat",
+        "source": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-main-27:/layout/item_channel_tv.xml"
+    },
+    {
+        "merged": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-merged_res-25:/drawable_tv_item_selector.xml.flat",
+        "source": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-main-27:/drawable/tv_item_selector.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.clockapp-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-merged_res-25:/menu_main_menu.xml.flat",
+        "source": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-main-27:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-merged_res-25:/layout_activity_tv_player.xml.flat",
+        "source": "/home/wallacecosta/.gradle/daemon/8.4/com.example.clockapp-main-27:/layout/activity_tv_player.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-25:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.clockapp-main-27:/drawable/ic_launcher_foreground.xml"
+    }
+]

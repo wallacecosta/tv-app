@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable tv_banner
+drawable tv_item_selector
+id action_add_playlist
+id action_clear_playlist
+id action_reload
+id channelCount
+id channelGroup
+id channelLogo
+id channelName
+id channelNumber
+id emptyView
+id hintBar
+id osdChannelGroup
+id osdChannelName
+id osdChannelNumber
+id osdView
+id playerView
+id progressBar
+id recyclerView
+id searchEdit
+id sidebarList
+id sidebarView
+id toolbar
+layout activity_main
+layout activity_player
+layout activity_tv_main
+layout activity_tv_player
+layout item_channel
+layout item_channel_tv
+menu main_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+style AppTheme
